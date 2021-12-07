@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manasgandy
 - 👀 I’m interested in Bitcoin and Lightning
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me manasgandy@protonmail.com
 
 <!---
